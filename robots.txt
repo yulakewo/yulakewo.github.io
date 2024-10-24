@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://yulakewo.github.io/sitemap/sitemap_index.yulakewo
+Sitemap: https://yulakewo.github.io/HeG/sitemap_index.yulakewo
+Sitemap: https://yulakewo.github.io/fPi/sitemap_index.yulakewo
+Sitemap: https://yulakewo.github.io/naM/sitemap_index.yulakewo
+Sitemap: https://yulakewo.github.io/ZdC/sitemap_index.yulakewo
+Sitemap: https://yulakewo.github.io/Isg/sitemap_index.yulakewo
+Sitemap: https://yulakewo.github.io/qdp/sitemap_index.yulakewo
+Sitemap: https://yulakewo.github.io/aTi/sitemap_index.yulakewo
+Sitemap: https://yulakewo.github.io/CGq/sitemap_index.yulakewo
+Sitemap: https://yulakewo.github.io/lUI/sitemap_index.yulakewo
+Sitemap: https://yulakewo.github.io/exN/sitemap_index.yulakewo
+Sitemap: https://yulakewo.github.io/wKS/sitemap_index.yulakewo
+Sitemap: https://yulakewo.github.io/qhD/sitemap_index.yulakewo
+Sitemap: https://yulakewo.github.io/PgD/sitemap_index.yulakewo
+Sitemap: https://yulakewo.github.io/eUm/sitemap_index.yulakewo
+Sitemap: https://yulakewo.github.io/gwn/sitemap_index.yulakewo
+Sitemap: https://yulakewo.github.io/end/sitemap_index.yulakewo
+Sitemap: https://yulakewo.github.io/MuS/sitemap_index.yulakewo
+Sitemap: https://yulakewo.github.io/pjJ/sitemap_index.yulakewo
+Sitemap: https://yulakewo.github.io/rFK/sitemap_index.yulakewo
+Sitemap: https://yulakewo.github.io/sng/sitemap_index.yulakewo
